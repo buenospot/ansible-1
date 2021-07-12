@@ -5,7 +5,7 @@
   connection: local
 
   vars:
-    webconsole_hostname: 'hostname'
+    webconsole_hostname: 'tdcvcsprod.isd.lacounty.gov'
     commcell_username: '{{ commcell_username }}'
     commcell_password: '{{ commcell_password }}'
     client: '{{ client_name }}'
